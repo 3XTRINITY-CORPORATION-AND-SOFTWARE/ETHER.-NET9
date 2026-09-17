@@ -1,0 +1,13 @@
+{
+  "name": "STEEL Terminal",
+  "short_name": "STEEL",
+  "description": "A focused, local-first command surface for the STEEL workspace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0d0b",
+  "theme_color": "#0c0d0b",
+  "orientation": "any",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
